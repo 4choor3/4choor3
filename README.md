@@ -29,9 +29,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,rust,nodejs,linux,arch,git,bash,github,vscode,blender&theme=dark&perline=11">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,cpp,rust,nodejs,linux,arch,git,bash,github,vscode,blender&theme=light&perline=11">
-  <img src="https://skillicons.dev/icons?i=py,cpp,rust,nodejs,linux,arch,git,bash,github,vscode,blender&theme=light&perline=11" alt="Skill icons">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Ccpp%2Crust%2Cnodejs%2Clinux%2Carch%2Cgit%2Cbash%2Cgithub%2Cvscode%2Cblender&theme=dark&perline=11">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Ccpp%2Crust%2Cnodejs%2Clinux%2Carch%2Cgit%2Cbash%2Cgithub%2Cvscode%2Cblender&theme=light&perline=11">
+  <img src="https://skillicons.dev/icons?i=py%2Ccpp%2Crust%2Cnodejs%2Clinux%2Carch%2Cgit%2Cbash%2Cgithub%2Cvscode%2Cblender&theme=light&perline=11" alt="Skill icons">
 </picture>
 
 </div>
