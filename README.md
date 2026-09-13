@@ -1,0 +1,76 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-light.svg" alt="4choor3" width="100%">
+</picture>
+
+<br>
+
+<a href="https://4choor3.github.io"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-4choor3.github.io-4E9A4E?style=flat-square&logo=hexo&logoColor=white" alt="Blog"></a>
+<img src="https://img.shields.io/github/followers/4choor3?style=flat-square&label=Followers&color=4E9A4E" alt="Followers">
+<img src="https://img.shields.io/badge/Base-%E5%8D%97%E4%BA%AC-4E9A4E?style=flat-square&logo=googlemaps&logoColor=white" alt="Nanjing">
+
+</div>
+
+---
+
+## 关于我
+
+生物科学在读，日常在 **量化交易**、**嵌入式硬件** 与 **Linux** 之间来回横跳。
+
+- **A 股量化** —— Python 工具链处理前复权日线：数据清洗、因子构造、策略回测
+- **嵌入式硬件** —— RP2040 / CircuitPython，习惯把物料成本压到极限再动手
+- **Linux / HPC** —— 日常 Arch，重活丢到 SLURM 集群上跑
+- **折腾记录** —— 顺手写下来的东西都在[博客](https://4choor3.github.io)
+
+## 技术栈
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,linux,arch,git,bash,github,vscode,blender,raspberrypi&theme=dark&perline=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,cpp,linux,arch,git,bash,github,vscode,blender,raspberrypi&theme=light&perline=10">
+  <img src="https://skillicons.dev/icons?i=py,cpp,linux,arch,git,bash,github,vscode,blender,raspberrypi&theme=light&perline=10" alt="Skill icons">
+</picture>
+
+</div>
+
+<div align="center">
+
+![CircuitPython](https://img.shields.io/badge/CircuitPython-9.x-4d2d8f?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
+![mplfinance](https://img.shields.io/badge/mplfinance-4E9A4E?style=flat-square)
+![SLURM](https://img.shields.io/badge/SLURM-HPC-1f6feb?style=flat-square&logo=linux&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</div>
+
+## 项目
+
+| 项目 | 是什么 | 技术栈 |
+|:---|:---|:---|
+| **[RP2040 Mini TXT Reader](https://github.com/4choor3/rp2040-txt-reader)** | 成本 ¥30 以内的口袋 TXT 阅读器：插上 Type-C 就是 U 盘，拖进 `book.txt` 开机即读，无需烧录 | CircuitPython · RP2040 · SPI · ST7735 |
+| **[4choor3.github.io](https://4choor3.github.io)** | 个人博客，记录量化、Python 与工具折腾 | Hexo · GitHub Pages |
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/4choor3/rp2040-txt-reader/main/assets/01-pi-demo-wiring.jpg" width="420" alt="RP2040 Mini TXT Reader 实机">
+  <br><sub>▲ RP2040 Mini TXT Reader · 圆周率演示与全套硬件接线</sub>
+</p>
+
+## 最近在忙
+
+- **A 股行情数据管道** —— 7000+ 标的前复权日线：清洗、每日增量更新、缺失补齐
+- **SLURM 集群管理** —— 用户与存储管理、分区状态监控、长任务托管
+- **CircuitPython 显示** —— 位图中文字体在 TFT 小屏上的渲染与排版
+
+---
+
+<div align="center">
+
+<sub><i>我们无法预知某个瞬间的价值，直到它成为回忆。</i></sub>
+
+</div>
