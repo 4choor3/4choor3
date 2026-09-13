@@ -29,9 +29,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Crust%2Cnodejs%2Clinux%2Carch%2Capple%2Cgithub%2Cvscode%2Cblender&theme=dark&perline=9">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Crust%2Cnodejs%2Clinux%2Carch%2Capple%2Cgithub%2Cvscode%2Cblender&theme=light&perline=9">
-  <img src="https://skillicons.dev/icons?i=py%2Crust%2Cnodejs%2Clinux%2Carch%2Capple%2Cgithub%2Cvscode%2Cblender&theme=light&perline=9" alt="Skill icons">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Crust%2Cnodejs%2Clinux%2Carch%2Capple%2Cdocker%2Cgithub%2Cvscode%2Cblender&theme=dark&perline=10">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Crust%2Cnodejs%2Clinux%2Carch%2Capple%2Cdocker%2Cgithub%2Cvscode%2Cblender&theme=light&perline=10">
+  <img src="https://skillicons.dev/icons?i=py%2Crust%2Cnodejs%2Clinux%2Carch%2Capple%2Cdocker%2Cgithub%2Cvscode%2Cblender&theme=light&perline=10" alt="Skill icons">
 </picture>
 
 </div>
@@ -39,11 +39,11 @@
 <div align="center">
 
 ![dsh](https://img.shields.io/badge/dsh-DeepSeek%20Harness-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
+![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)
+![zsh](https://img.shields.io/badge/zsh-4E9A4E?style=flat-square)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
 ![mplfinance](https://img.shields.io/badge/mplfinance-4E9A4E?style=flat-square)
-![vectorbt](https://img.shields.io/badge/vectorbt-4E9A4E?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </div>
@@ -63,7 +63,7 @@
 ## 最近在忙
 
 - **A 股行情数据管道** —— 7000+ 标的前复权日线：清洗、每日增量更新、缺失补齐
-- **策略回测** —— vectorbt / backtrader 上的历史回测与技术指标验证
+- **策略回测** —— backtrader 等框架上的历史回测与技术指标验证
 - **脚本自动化** —— 把日常重复劳动都交给 Python
 
 ---
