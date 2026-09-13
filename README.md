@@ -29,15 +29,16 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Ccpp%2Crust%2Cnodejs%2Clinux%2Carch%2Cgit%2Cbash%2Cgithub%2Cvscode%2Cblender&theme=dark&perline=11">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Ccpp%2Crust%2Cnodejs%2Clinux%2Carch%2Cgit%2Cbash%2Cgithub%2Cvscode%2Cblender&theme=light&perline=11">
-  <img src="https://skillicons.dev/icons?i=py%2Ccpp%2Crust%2Cnodejs%2Clinux%2Carch%2Cgit%2Cbash%2Cgithub%2Cvscode%2Cblender&theme=light&perline=11" alt="Skill icons">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Crust%2Cnodejs%2Clinux%2Carch%2Capple%2Cgithub%2Cvscode%2Cblender&theme=dark&perline=9">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Crust%2Cnodejs%2Clinux%2Carch%2Capple%2Cgithub%2Cvscode%2Cblender&theme=light&perline=9">
+  <img src="https://skillicons.dev/icons?i=py%2Crust%2Cnodejs%2Clinux%2Carch%2Capple%2Cgithub%2Cvscode%2Cblender&theme=light&perline=9" alt="Skill icons">
 </picture>
 
 </div>
 
 <div align="center">
 
+![dsh](https://img.shields.io/badge/dsh-DeepSeek%20Harness-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
