@@ -18,33 +18,31 @@
 
 ## 关于我
 
-生物科学在读，日常在 **量化交易**、**嵌入式硬件** 与 **Linux** 之间来回横跳。
+生物科学在读，写代码比做实验多。
 
 - **A 股量化** —— Python 工具链处理前复权日线：数据清洗、因子构造、策略回测
-- **嵌入式硬件** —— RP2040 / CircuitPython，习惯把物料成本压到极限再动手
-- **Linux / HPC** —— 日常 Arch，重活丢到 SLURM 集群上跑
-- **折腾记录** —— 顺手写下来的东西都在[博客](https://4choor3.github.io)
+- **Linux 日常** —— Arch 当主力系统，重复劳动一律交给脚本
+- **折腾记录** —— 折腾过的东西都记在[博客](https://4choor3.github.io)
 
 ## 技术栈
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,linux,arch,git,bash,github,vscode,blender,raspberrypi&theme=dark&perline=10">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,cpp,linux,arch,git,bash,github,vscode,blender,raspberrypi&theme=light&perline=10">
-  <img src="https://skillicons.dev/icons?i=py,cpp,linux,arch,git,bash,github,vscode,blender,raspberrypi&theme=light&perline=10" alt="Skill icons">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,linux,arch,git,bash,github,vscode,blender&theme=dark&perline=9">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,cpp,linux,arch,git,bash,github,vscode,blender&theme=light&perline=9">
+  <img src="https://skillicons.dev/icons?i=py,cpp,linux,arch,git,bash,github,vscode,blender&theme=light&perline=9" alt="Skill icons">
 </picture>
 
 </div>
 
 <div align="center">
 
-![CircuitPython](https://img.shields.io/badge/CircuitPython-9.x-4d2d8f?style=flat-square&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
 ![mplfinance](https://img.shields.io/badge/mplfinance-4E9A4E?style=flat-square)
-![SLURM](https://img.shields.io/badge/SLURM-HPC-1f6feb?style=flat-square&logo=linux&logoColor=white)
+![vectorbt](https://img.shields.io/badge/vectorbt-4E9A4E?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </div>
