@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://4choor3.github.io"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-4choor3.github.io-4E9A4E?style=flat-square&logo=hexo&logoColor=white" alt="Blog"></a>
-<img src="https://img.shields.io/github/followers/4choor3?style=flat-square&label=Followers&color=4E9A4E" alt="Followers">
+<a href="https://github.com/4choor3?tab=followers"><img src="https://img.shields.io/github/followers/4choor3?style=flat-square&label=Followers&color=4E9A4E" alt="Followers"></a>
 <img src="https://img.shields.io/badge/Base-%E5%8D%97%E4%BA%AC-4E9A4E?style=flat-square&logo=googlemaps&logoColor=white" alt="Nanjing">
 
 </div>
@@ -38,13 +38,13 @@
 
 <div align="center">
 
-![dsh](https://img.shields.io/badge/dsh-DeepSeek%20Harness-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
-![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)
-![zsh](https://img.shields.io/badge/zsh-4E9A4E?style=flat-square)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![mplfinance](https://img.shields.io/badge/mplfinance-4E9A4E?style=flat-square)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+[![dsh](https://img.shields.io/badge/dsh-DeepSeek%20Harness-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com)
+[![zsh](https://img.shields.io/badge/zsh-4E9A4E?style=flat-square)](https://www.zsh.org)
+[![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
+[![mplfinance](https://img.shields.io/badge/mplfinance-4E9A4E?style=flat-square)](https://github.com/matplotlib/mplfinance)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)
 
 </div>
 
