@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img src="assets/banner-light.svg" alt="4choor3" width="100%">
-</picture>
+<img src="assets/banner.jpg" alt="4choor3" width="100%">
 
 <br>
 
