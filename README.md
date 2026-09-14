@@ -40,7 +40,7 @@
 
 [![dsh](https://img.shields.io/badge/dsh-DeepSeek%20Harness-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)](https://github.com/deepseek-ai/deepseek-harness)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com)
-[![zsh](https://img.shields.io/badge/zsh-4E9A4E?style=flat-square)](https://www.zsh.org)
+[![zsh](https://img.shields.io/badge/zsh-4E9A4E?style=flat-square&logo=zsh&logoColor=white)](https://www.zsh.org)
 [![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org)
 [![mplfinance](https://img.shields.io/badge/mplfinance-4E9A4E?style=flat-square)](https://github.com/matplotlib/mplfinance)
